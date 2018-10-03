@@ -1,0 +1,24 @@
+.heading{
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.textarea{
+    width:100vw;
+}
+textarea{
+    width: 50vw;
+    height: 10vh;
+    margin-left: 25vw;
+}
+.display{
+    width: 100vw;
+    text-align: center;
+}
+.display{
+    width: 100vw;
+}
